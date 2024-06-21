@@ -1,0 +1,12 @@
+DevoPS PIPELINE :
+    ------ Jenkins :  on minikube :
+            ------ Docker :  build simple app.py
+                            ----   Deploy it on the eks : using github pipeline 
+                             ----- expose it externally
+
+
+
+JENKINS ON MINIKUBE :   KUBECTL GET IMAGE JENKINS FROM OR CREATE DEPLOYMENT FILE 
+    Docker build simple file : with app.py , print Hello World 
+        Deploy the deployment hello word on minikube 
+            
